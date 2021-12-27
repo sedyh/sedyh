@@ -1,4 +1,19 @@
+<img width="100%" height="200" src="https://github.com/sedyh/sedyh/blob/main/gopher-running-profile.svg" alt="gopher-running">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sedyh&show_icons=true&border_radius=10&theme=tokyonight&bg_color=35,101a1f,101a1f,15222a,1f313f" alt="github-stats">
+
+### About me
+
+My name is Sedykh Artem. I am a Russian Backend / ML developer and I love game development.
+
+### Developing in
+
+<img src="https://github.com/sedyh/sedyh/blob/main/go.svg" alt="go" width="32" height="32"/><img src="https://github.com/sedyh/sedyh/blob/main/python.svg" alt="python" width="32" height="32"/><img src="https://github.com/sedyh/sedyh/blob/main/java.svg" alt="java" width="32" height="32"/><img src="https://github.com/sedyh/sedyh/blob/main/c%23.svg" alt="c#" width="32" height="32"/>
+
+
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=sedyh&show_icons=true&border_radius=10&theme=tokyonight&bg_color=35,101a1f,101a1f,15222a,1f313f)
+-->
 
 <!---
 ![Stats](https://github-readme-stats.vercel.app/api?username=sedyh&show_icons=true&text_color=&icon_color=ffffff&bg_color=35,101a1f,101a1f,15222a,1f313f&theme=dark)

@@ -5,7 +5,7 @@
 
 ### About me
 
-My name is Sedykh Artem. I am a Russian Backend / ML developer and I love game development.
+My name is Sedykh Artem. I am a Backend / ML developer and I love game development.
 
 ### Developing in
 
